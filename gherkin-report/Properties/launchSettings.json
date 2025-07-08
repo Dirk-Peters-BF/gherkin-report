@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "default": {
+      "commandName": "Project",
+      "commandLineArgs": "-i ../../../../ReqnRollSample/bin/Debug/net8.0/TestExecution.json -o ../../../../tests.html"
+    }
+  }
+}
